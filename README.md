@@ -1,3 +1,3 @@
 # k2a_workshop
 
-Final contents of workshop project used in second virtual session. 
+Final contents of workshop project used in virtual session. 
